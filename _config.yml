@@ -8,8 +8,8 @@ description: |
 owner: The Gym App # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: rob@iamrobj.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thegymapp.co.uk" # the base hostname & protocol for your site
+baseurl: 
+url: "http://thegymapp.co.uk/" # the base hostname & protocol for your site
 social:
   twitter: 
   github: 
