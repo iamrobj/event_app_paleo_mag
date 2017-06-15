@@ -2,17 +2,17 @@
 #
 
 # Site settings
-title: Foodies of London
+title: Stuffd London
 description: |
  Never miss a foodie event again
-owner: The Gym App # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: rob@iamrobj.com
+owner: Stuffd # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
+email: rob+stuffd@iamrobj.com
 baseurl: 
-url: "http://thegymapp.co.uk/" # the base hostname & protocol for your site
+url: "http://getstuffd.london/" # the base hostname & protocol for your site
 social:
-  twitter: 
-  github: 
+  twitter: getstuffdldn
+  github: getstuffdldn
   linkedin-square: 
   facebook-official: 
   google-plus-square: 
