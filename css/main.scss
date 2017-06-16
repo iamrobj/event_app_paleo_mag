@@ -1502,7 +1502,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			&:before, &:after {
 				@include vendor('transition', 'width 0.85s ease');
 				@include vendor('transition-delay', '0.25s');
-				background: _palette(fg-bold);
+				background: _palette(banner-line);
 				content: '';
 				display: block;
 				height: 2px;
