@@ -11,11 +11,12 @@ email: rob+stuffd@iamrobj.com
 baseurl: 
 url: "http://getstuffd.london/" # the base hostname & protocol for your site
 social:
-  twitter: getstuffdldn
-  github: getstuffdldn
-  linkedin-square: 
-  facebook-official: 
-  google-plus-square: 
+  twitter: http://twitter.com/getstuffdldn
+  instagram: http://instagram.com/getstuffdldn
+  #github: 
+  #linkedin-square: 
+  #facebook-official: 
+  #google-plus-square: 
   #email: /contact/
   #flickr:
   #instagram:
