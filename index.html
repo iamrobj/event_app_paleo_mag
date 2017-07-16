@@ -7,19 +7,18 @@ layout: landing
 							<h2>{{ site.title }}</h2>
 							<p>{{ site.description | markdownify }}</p>
 							<ul class="actions">
-								<li><a href="#getintouch" class="app button special">Sign up today</a></li>
+								<li><a href="#getintouch" class="app button special">{{ site.cta }}</a></li>
 							</ul>
 						</div>
-						<a href="#one" class="more scrolly">Get down and get involved</a>
+						<a href="#one" class="more scrolly">{{ site.scroll_for_more }}</a>
 					</section>
 
 				<!-- One -->
 					<section id="one" class="wrapper style1 special">
 						<div class="inner">
 							<header class="major">
-								<h2>There has never been a better time to be a foodie in London</h2>
-								<p>London has undoubtedly earned itself as one of the biggest food capitals in the world.  Soggy chips and suspect burgers are a thing of the past and top chefs, food trends and cuisines have flocked to the capital.
-With street food, more food trucks and pop up’s than you can shake a stick at, supper clubs, food markets & food festivals to be explored. Hunting down new food experiences is now essentially a hobby and if that’s wrong, then we don’t want to be right.<br /><br />London has proved itself to be a foodie’s heaven and this is the ultimate guide so you don’t miss out...</br>So go forth, and get stuff’d!</p>
+								<h2>{{ site.main_section_title }}</h2>
+								<p>{{ site.main_section_text }}</p>
 							</header>
 							<ul class="icons major">
 								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
@@ -32,35 +31,37 @@ With street food, more food trucks and pop up’s than you can shake a stick at,
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><img src="http://ddk82aqeuj01i.cloudfront.net/2016/March/IC933138_224x126.jpg" alt="" /></div><div class="content">
-								<h2>Foodies Festival Blackheath,</br>June 30</h2>
-								<p>The Foodies Festival comes to Blackheath again this summer for three days of culinary fun. The UK's biggest celebration of food and drink, Foodies is known for its packed programmes and this festival will be no different with chefs such as Rosemary Shrager, Adam Simmonds and Jane Devonshire on the line-up.</p>
+							<div class="image"><img src="images/section/{{ site.section_1_img }}" alt="" /></div><div class="content">
+								<h2>{{ site.section_1_title }}</h2>
+								<p>{{ site.section_1_text }}</p>
+                            </div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/section/{{ site.section_2_img }}" alt="" /></div><div class="content">
+								<h2>{{ site.section_2_title }}</h2>
+								<p>{{ site.section_2_text }}</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="https://cdn.rollerdigital.com/form/DDwfMW041EycZ9lGSwPgBA.jpg" alt="" /></div><div class="content">
-								<h2>FORTNUM’S MIDNIGHT FOOD HALL FEAST,</br>7th - 9th July</h2>
-								<p>Join Fortnum & Mason for a once-in-a-lifetime candlelit midnight feast in our famous food halls, when a special menu of exceptional Fortnum’s food and drink will be served, including Glenarm beef from our butcher, salmon from our fish counter, finest cheeses and more.</p>
+							<div class="image"><img src="images/section/{{ site.section_3_img }}" alt="" /></div><div class="content">
+								<h2>{{ site.section_3_title }}</h2>
+								<p>{{ site.section_3_text }}</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>G</h2>
-								<p>We know your brand is important.  That's why we make sure your app represents your brand in color, style & with your logo.</p>
+							<div class="image"><img src="images/section/{{ site.section_4_img }}" alt="" /></div><div class="content">
+								<h2>{{ site.section_4_title }}</h2>
+								<p>{{ site.section_4_text }}</p>
 							</div>
 						</section>
+                        {% if site.section_5_title %}
 						<section class="spotlight">
-							<div class="image"><img src="images/pic06.jpg" alt="" /></div><div class="content">
-								<h2>Personal Trainers</h2>
-								<p>Show off your personal trainers in the app, with easy access to calendar availability & contact information.</p>
+							<div class="image"><img src="images/section/{{ site.section_5_img }}" alt="" /></div><div class="content">
+								<h2>{{ site.section_5_title }}</h2>
+								<p>{{ site.section_5_text }}</p>
 							</div>
 						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Get the App</h2>
-								<p>Find all the foodie happenings in London, anytime, right from your phone.</p>
-							</div>
-						</section>
+                        {% endif %}
 					</section>
 
 				<!-- Three -->
@@ -105,8 +106,8 @@ With street food, more food trucks and pop up’s than you can shake a stick at,
 					<section id="cta" class="wrapper style4">
 						<div class="inner">
 							<header>
-								<h2>Interested?</h2>
-								<p>If you'd like to find out more about how to get setup with the GymApp, get in touch today.</p>
+								<h2>{{ site.interested_title }}</h2>
+								<p>{{ site.interested_text }}</p>
 							</header>
 							<ul class="actions vertical">
 								<li><a href="#getintouch" class="app button fit special">Sign up today</a></li>

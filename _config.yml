@@ -2,12 +2,37 @@
 #
 
 # Site settings
-title: Stuffd LDN
+title: Eventee
 description: |
- Never miss a foodie event again
-owner: Stuffd # or company name
+ Bring your event into the 21st Century
+cta: Get In Touch
+scroll_for_more: Find out more
+## Main section ##
+main_section_title: You need an app
+main_section_text: Why you need an app..
+## Section 1 ##
+section_1_title: You need an app
+section_1_text: Why you need an app..
+section_1_img: section_1.jpg
+## Section 2 ##
+section_2_title: You need an app
+section_2_text: Why you need an app..
+section_2_img: section_2.jpg
+## Section 3 ##
+section_3_title: You need an app
+section_3_text: Why you need an app..
+section_3_img: section_3.jpg
+## Section 4 ##
+section_4_title: You need an app
+section_4_text: Why you need an app..
+section_4_img: section_4.jpg
+## Interest ##
+interested_title: Interested?
+interested_text: If you'd like to find out more about how to get setup with the Eventee, get in touch today.
+
+owner: Eventee # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: rob+stuffd@iamrobj.com
+email: rob+eventee@iamrobj.com
 baseurl: 
 url: "http://getstuffd.london/" # the base hostname & protocol for your site
 social:
