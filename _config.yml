@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: Go-To
+title: Don't Go-To
 description: The Go-To Event App
  Enhance your Event Experience
 cta: Get in touch
@@ -12,20 +12,20 @@ main_section_title: Great events need even greater apps
 main_section_text: Why you need an app...
 ## Section 1 ##
 section_1_title: The entire schedule - at your fingertips
-section_1_text: No more printed programmes to carry around. No more trying to figure out who's speaking & when.The entire events schedule & more in the palm of your hand.
+section_1_text: No more printed programmes to carry around.<br>No more trying to figure out who's speaking & when.<br>The entire events schedule & more in the palm of your hand.
 section_1_img: section_1.jpg
 ## Section 2 ##
 section_2_title: Showcase your sponsors & vendors
-section_2_text: Sponsors give a lot to sponsor your event and we've all been to event with amazing vendors that we might not have even have known about!Now you can showcase everyone participating in your event to the fullest.
+section_2_text: Sponsors give a lot to sponsor your event and we've all been to event with amazing vendors that we might not have even have known about!<br>Now you can showcase everyone participating in your event to the fullest.
 section_2_img: section_2.jpg
 ## Section 3 ##
 section_3_title: See who's speaking
 section_3_text: How often do you visit an events website to see who's speaking, read their bio & still feel uninformed?
-Provide attendees with everything they want to see: an informative snapshot (just as a talk is about to start)All the key points, all in one place, now that's ideal.
+Provide attendees with everything they want to see: an informative snapshot (just as a talk is about to start)<br>All the key points, all in one place, now that's ideal.
 section_3_img: section_3.jpg
 ## Section 4 ##
 section_4_title: Customise your Schedule for the day
-section_4_text: No more struggling to find a pen & marking the talks you want to see.No more checking it every hour to make sure you don't miss out. Let us make your life easier.Create your personalised schedule in the app & get reminders when a talk is about to start.
+section_4_text: No more struggling to find a pen & marking the talks you want to see.<br>No more checking it every hour to make sure you don't miss out. Let us make your life easier.<br>Create your personalised schedule in the app & get reminders when a talk is about to start.
 section_4_img: section_4.jpg
 ## Interest ##
 interested_title: Interested?
