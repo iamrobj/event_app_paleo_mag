@@ -2,29 +2,29 @@
 #
 
 # Site settings
-title: Eventee
+title: Go to
 description: |
- Bring your event into the 21st Century
+ Enhancing your Event Experience
 cta: Get In Touch
-scroll_for_more: Find out more
+scroll_for_more: What we can do
 ## Main section ##
 main_section_title: You need an app
 main_section_text: Why you need an app..
 ## Section 1 ##
-section_1_title: You need an app
-section_1_text: Why you need an app..
+section_1_title: The entire schedule - right on your phone
+section_1_text: No more printing programmes for your attendees to carry arround.  No more trying to figure out whose speaking & when.  Have the entire events schedule in the palm of your hand.
 section_1_img: section_1.jpg
 ## Section 2 ##
-section_2_title: You need an app
-section_2_text: Why you need an app..
+section_2_title: Showcase your sponsors & vendors
+section_2_text: Sponsors give a lot to sponsor your event, and we've all been to event with amazing vendors that we might not have even have known about!  Now you can showcase everyone participating in your event to the fullest.
 section_2_img: section_2.jpg
 ## Section 3 ##
-section_3_title: You need an app
-section_3_text: Why you need an app..
+section_3_title: See whose speaking
+section_3_text: How often do you visit an events website to see who's speaking & read their bio?  Never?  Us neither.  However we would like to take a look just as a talk is about to start, if only we could do it this easily..
 section_3_img: section_3.jpg
 ## Section 4 ##
-section_4_title: You need an app
-section_4_text: Why you need an app..
+section_4_title: Custom Schedule
+section_4_text: You know how you normally find a pen, get the paper schedule, circle the talks you want to see & then keep checking it every hour to make sure you don't miss out on one?  Yeah, don't do that.  Create your own custom schedule in the app & get reminders when a talk is about to start.
 section_4_img: section_4.jpg
 ## Interest ##
 interested_title: Interested?
