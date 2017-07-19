@@ -1,0 +1,10 @@
+---
+title:      "Customise your Schedule for the day"
+date:       2017-06-27
+image: "section_4.jpg"
+tags: [section]
+---
+
+No more struggling to find a pen & marking the talks you want to see.<br>
+No more checking it every hour to make sure you don't miss out. Let us make your life easier.<br>
+Create your personalised schedule in the app & get reminders when a talk is about to start.
