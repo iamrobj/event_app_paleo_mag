@@ -1,0 +1,8 @@
+---
+title:      "Never miss a talk"
+date:       2017-06-28
+image: "section_5.jpg"
+tags: [section]
+---
+
+Now that your attendees can create their own custom schedule customised reminders can be sent to them so they never again miss out on something they wanted to see!
