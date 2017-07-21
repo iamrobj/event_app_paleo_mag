@@ -1,5 +1,5 @@
 ---
-title:      "And more"
+title:      "Plus"
 date:       2017-06-28
 image: "section_6.jpg"
 tags: [section]
