@@ -1,7 +1,7 @@
 ---
 title:      "Customise your Schedule for the day"
 date:       2017-06-27
-image: "section_4.jpg"
+image: "section_2.jpg"
 tags: [section]
 ---
 

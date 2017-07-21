@@ -1,7 +1,7 @@
 ---
 title:      "Showcase your sponsors & vendors"
 date:       2017-06-25
-image: "section_2.jpg"
+image: "section_4.jpg"
 tags: [section]
 ---
 
