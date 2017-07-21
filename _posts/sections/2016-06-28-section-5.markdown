@@ -5,4 +5,4 @@ image: "section_5.jpg"
 tags: [section]
 ---
 
-You can give your attendees more. Let them create their own personalised schedule where customised reminders can be sent to them so they don't miss out! Maximise their opportunities to attend the right sessions & panels
+A personal touch for attendees. Let them create their own personalised schedule with customised reminders sent directly to their phone so they don't miss out! Maximise their opportunities to attend the right sessions & panels.
