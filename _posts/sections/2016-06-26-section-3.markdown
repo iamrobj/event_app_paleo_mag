@@ -6,5 +6,5 @@ tags: [section]
 ---
 
 How often do you visit an events website to see who's speaking, read their bio & still feel uninformed?<br>
-Provide attendees with everything they want to see: an informative snapshot (just as a talk is about to start)<br>
+Provide attendees with everything they want to see: an informative snapshot<br>
 All the key points, all in one place, now that's ideal.
