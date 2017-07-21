@@ -17,9 +17,9 @@ lightbox_btn: Submit
 
 owner: Go-To # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: rob+eventee@iamrobj.com
+email: rob+gotoevnt@iamrobj.com
 baseurl: 
-url: "http://getstuffd.london/" # the base hostname & protocol for your site
+url: "http://paleofx.gotoevnt.com/" # the base hostname & protocol for your site
 social:
   twitter: http://twitter.com/gotoevnt
   instagram: http://instagram.com/gotoevnt
