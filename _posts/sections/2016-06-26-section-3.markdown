@@ -5,5 +5,5 @@ image: "section_3.jpg"
 tags: [section]
 ---
 
-Provide attendees with everything they want to see: an informative snapshot of the speaker, the panel topic, hashtags to use, everything they need to know<br>
-All the key points, all in one place, at the touch of a button
+Provide attendees with everything they want to see: an informative snapshot of the speaker, the panel topic, hashtags to use, everything they need to know.<br>
+All the key points, all in one place, at the touch of a button.
