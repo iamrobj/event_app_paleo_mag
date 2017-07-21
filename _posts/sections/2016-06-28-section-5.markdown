@@ -5,4 +5,4 @@ image: "section_5.jpg"
 tags: [section]
 ---
 
-Now that your attendees can create their own custom schedule customised reminders can be sent to them so they never again miss out on something they wanted to see!
+You can give your attendees more. Let them create their own personalised schedule where customised reminders can be sent to them so they don't miss out! Maximise their opportunities to attend the right sessions & panels
