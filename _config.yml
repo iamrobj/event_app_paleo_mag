@@ -9,6 +9,11 @@ scroll_for_more: What we can do
 ## Interest ##
 interested_title: Interested?
 interested_text: If you'd like to find out more about how to get setup or want us to be your Go-To, get in touch today.
+interested_btn: Find out more
+
+lightbox_title: Get in touch
+lightbox_text: If you'd like to find out more about how can we can help you enhance your event experience, leave us your details & lets get in touch!
+lightbox_btn: Submit
 
 owner: Go-To # or company name
 first_published: 2017 # if migrating another site, the year of your first publish

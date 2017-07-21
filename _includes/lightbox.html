@@ -1,0 +1,21 @@
+
+<!-- lightbox -->
+    <link href="/css/lightbox.css" rel="stylesheet">
+  <script src="/js/lightbox.js"></script>
+  <div class="lightbox header-content-inner">
+    <div class="lightbox-content" style="border-radius: 4px;">
+      <span class="lightbox-close-icon lightbox-close">✕</span>
+      <div id="mylightbox" class="lightbox-inner">
+        <h1 class="section-heading">{{ site.lightbox_title }}</h1>
+        <p>{{ site.lightbox_text }}</p>
+        <form method="POST" action="http://formspree.io/rob+gotoevnt@iamrobj.com" style="padding-top:8px;">
+          <input type="text" name="_name" placeholder="Your name" class="lightbox-input" />
+          <input type="text" name="event" placeholder="Your event" class="lightbox-input" />
+          <input type="email" name="_replyto" placeholder="Your best mail address" class="lightbox-input" />
+          <input type="hidden" name="_useragent" id="UserAgent">
+          <input type="submit" value="{{ site.lightbox_btn }}" class="btn btn-outline btn-xl" >
+        </form>
+      </div>
+    </div>
+    <script>document.getElementById('UserAgent').value = navigator.userAgent;</script>
+  </div>
