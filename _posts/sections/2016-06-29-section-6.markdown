@@ -5,4 +5,4 @@ image: "section_6.jpg"
 tags: [section]
 ---
 
-And not forgetting the people behind the magic, with the aim of maximising event ROI and ultimately improving the attendee’s experience, we will provide vital analytics and essential transparancy that will truly optimise Paleo f(x)’s value.
+And not forgetting the people behind the magic, with the aim of maximising event ROI and ultimately improving the attendee’s experience, we will provide vital analytics and essential transparancy that will truly optimise the Expo’s value.
